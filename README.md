@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-desire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Burning Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-desire/) |
+| **Get License** | [Get License For Burning Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-desire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `612c8f88ad4830683f7cc9c1dc7c0c7fc26e8b407417e169eb8dc6fcab414fb1` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
